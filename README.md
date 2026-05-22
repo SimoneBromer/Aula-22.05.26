@@ -2,3 +2,5 @@
 Estudando API
 
 Repositório criado para treinar o GIT e API
+
+Alteração remota no README
