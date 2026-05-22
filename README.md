@@ -1,6 +1,6 @@
 # Aula do dia 22.05.26
-Estudando API
+Estudando Git
 
-Repositório criado para treinar o GIT e API
+Repositório criado para treinar o GIT 
 
 Alteração remota no README
